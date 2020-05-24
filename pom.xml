@@ -82,13 +82,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-releases/</url>
+	      <name>devops-snap</name>
+	      <url>http://52.15.210.66:8081/repository/devops-snap//</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-snapshot/</url>
+	      <name>Devops-release</name>
+	      <url>http://52.15.210.66:8081/repository/Devops-release/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
